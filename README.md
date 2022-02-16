@@ -2,6 +2,11 @@
 
 Link to Question PDF: [Assignment_3.pdf](./Assignment_3.pdf) \
 (The link for [S2](./S2) given is incorrect, here's the correct one: https://nm.mathforcollege.com/textbook-numerical-methods-with-applications
+### Instructions to compile and run (all done on Ubuntu 20.04)
+```
+$ gcc code.c
+$ ./a.out
+```
 ## Shortcuts:
 1. [Basic Problems on Matrices](./S1)
 2. [Roots of Equations](./S2)
